@@ -1,0 +1,9 @@
+ws\ObjectFactory.class
+ws\ProcesarPagoResponse.class
+ws\package-info.class
+com\mycompany\clientejava\ClienteJAVA.class
+ws\ProcesarPago.class
+ws\Login.class
+ws\WSOperaciones.class
+ws\WSOperaciones_Service.class
+ws\LoginResponse.class
